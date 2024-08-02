@@ -158,7 +158,7 @@ def mask_tiles(images_dir, label_paths, targets_dir, border_width, overwrite_tar
     for label_path in tqdm(label_paths):
 
         tile_id = os.path.basename(label_path).split('.json')[0]  # just the file name without extension
-        image_path = os.path.join(images_dir, f'{tile_id}.png')
+        image_path = os.path.join(images_dir, f'{tile_id}.tif')
         target_path = os.path.join(targets_dir, f'{tile_id}_b{border_width}.png')
 
         if os.path.exists(target_path) and not overwrite_target:

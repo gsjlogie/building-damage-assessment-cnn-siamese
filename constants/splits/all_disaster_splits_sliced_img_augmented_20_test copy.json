@@ -1,0 +1,33 @@
+{
+"santa-rosa-wildfire": {
+        "train": [
+            "raw/hold/labels/santa-rosa-wildfire_00000195",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_0",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_1",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_2",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_3",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_4",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_5",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_6",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_7",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_8",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_9",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_10",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_11",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_12",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_13",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_14",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_15",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_16",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_17",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_18",
+            "raw/hold/labels/santa-rosa-wildfire_00000195_19"
+        ],
+        "val": [
+
+        ],
+        "test": [
+
+        ]
+    }
+}

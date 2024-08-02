@@ -26,7 +26,7 @@ dependencies:
   - tensorflow>=1.15.0
   - pytorch 
   - torchvision
-  - cudatoolkit=11.1
+  # - cudatoolkit=11.1
   - pip:
     - azure-storage-blob==12.7.1
     - opencv-python==4.5.1.48

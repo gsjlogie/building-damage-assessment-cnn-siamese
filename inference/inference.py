@@ -320,7 +320,7 @@ def prepare_for_vis(item, logger, model, device, softmax):
 
 def get_sample_images(dataset):
 
-    assert len(dataset) > args.num_chips_to_viz
+    assert len(dataset) >= args.num_chips_to_viz
 
     samples_idx_list = []
     from random import randint

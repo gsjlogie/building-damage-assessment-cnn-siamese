@@ -75,7 +75,7 @@ class DisasterDataset(Dataset):
         img_suffix_tile = '_' + imgs_dir_tile.split('_')[-1]
         mask_suffix = '_' + masks_dir.split('_')[-1]
 
-        pre_img_tile_name = imgs_dir_tile[0:-1*(len(img_suffix_tile))] + '_pre_disaster'
+        pre_img_tile_name = imgs_dir_tile[0:-1*(len(img_suffix_tile))] + '_pre_disaster' + img_suffix
         pre_img_file_name = imgs_dir[0:-1*(len(img_suffix))] + '_pre_disaster' + img_suffix
         pre_img_file = glob(pre_img_file_name + '.*')
 

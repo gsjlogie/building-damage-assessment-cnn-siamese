@@ -1,0 +1,13 @@
+{
+"santa-rosa-wildfire": {
+        "train": [
+            "raw/hold/labels/santa-rosa-wildfire_00000195"
+        ],
+        "val": [
+
+        ],
+        "test": [
+
+        ]
+    }
+}
